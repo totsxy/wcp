@@ -155,6 +155,10 @@
 <!--			<version>2.2.1-b03</version>-->
 		</dependency>
 	</dependencies>
+
+	<build>
+		<finalName>wcp</finalName>
+	</build>
 <!--	<build>-->
 <!--		<finalName>wcp</finalName>-->
 <!--		<plugins>-->
